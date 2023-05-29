@@ -65,5 +65,4 @@
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
     <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/7fd38642-48c3-482b-9459-cd59c8c0cf19">aqui</a>.</p>
-    <img src="Certificado de Conclusão JavaScript tipos, variáveis e funções.jpg">
 </section>
