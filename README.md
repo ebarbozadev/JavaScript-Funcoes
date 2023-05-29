@@ -5,7 +5,8 @@
     <p align="center" style="font-size: 1.25rem;">
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
-        <a href="#tecnologias">Tecnologias</a>
+        <a href="#tecnologias">Tecnologias</a> •
+        <a href="#certificado">Certificado</a>
     </p>
 </main>
 
@@ -57,7 +58,7 @@
 <section id="tecnologias">
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
-        <li><a href="https://www.javascript.com/">JavaScript</a>.</li>
+        <li>JavaScript.</li>
     </ul>
 </section>
 
