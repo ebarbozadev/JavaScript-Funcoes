@@ -14,7 +14,7 @@
 
 <section id="sobre">
     <h2 style="font-size: 1.25rem;">Sobre</h2>
-    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes">JavaScript: tipos, variáveis e funções
+    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes">JavaScript: Tipos, Variáveis e Funções
 </a> com <b>auxílio</b> dos instrutores <b>Leonardo Sartorello</b> e <b>Juliana Amoasei</b>.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
 </section>
